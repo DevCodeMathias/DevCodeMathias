@@ -9,7 +9,7 @@ I am Software Developer , a passionate student of Software Engineering at colleg
 - 🎨 Proficient in translating complex concepts into functional code and elegant interfaces, harmonizing aesthetics and functionality.
 
 ## Exploring the Backend World 🖥️
-My journey in backend development has allowed me to dive deep into the architecture and logic that underpin applications. My dedication to creating efficient infrastructures, robust APIs, and data management systems that enhance performance and reliability is a constant source of motivation.
+My journey in backend development is currently allowing me to dive deep into the architecture and logic that underpin applications. My dedication to creating efficient infrastructures, robust APIs, and data management systems that enhance performance and reliability is a constant source of motivation as I continue to learn and grow in the field of backend development.
 
 ## pursuit of Execellent ⭐
 For me, excellence is an unrelenting pursuit of improvement and continuous learning. I am constantly immersed in exploring new technologies, methodologies, and best practices to elevate my skills to new heights. My ambition is to be a driving force in creating solutions that not only solve problems but also inspire innovation.
