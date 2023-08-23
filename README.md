@@ -1,6 +1,6 @@
 #  👋 Hello, I am Laura Claro Mathias!
 
-I am Laura Claro Mathias, a passionate student of Software Engineering at college  FIAP, located in São Paulo, Brazil. I am immersed in a continuous journey of improvement, directing my skills towards backend development, while forging innovative solutions with global potential. My approach is shaped by insatiable curiosity and a determination to master technology and shape the future through skillfully crafted code.
+I am Software Developer , a passionate student of Software Engineering at college  FIAP, located in São Paulo, Brazil. I am immersed in a continuous journey of improvement, directing my skills towards backend development, while forging innovative solutions with global potential. My approach is shaped by insatiable curiosity and a determination to master technology and shape the future through skillfully crafted code.
 
 ## Professional Summary
 - 📚 Software Engineering student, tirelessly seeking to expand my knowledge in challenging projects.
