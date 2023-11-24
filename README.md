@@ -45,3 +45,6 @@ Let's turn our ideas into reality through strategic coding and unwavering dedica
   <a href="https://www.linkedin.com/in/laura-claro-mathias-580965222/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  
+ [![Discord](https://img.shields.io/badge/-Discord-%232c3e50?style=for-the-badge&logo=discord&logoColor=white)](https://cep7004)
+  
