@@ -11,9 +11,6 @@ Welcome to my profile! I'm passionate about backend development and on a continu
 - Backend-focused Software Developer.
 - Specialized in creating efficient infrastructures and robust APIs.
 - Committed to continuous learning to stay ahead in the ever-evolving tech landscape.
-
-![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/-.NET-%235C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
