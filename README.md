@@ -18,6 +18,7 @@ Welcome to my profile! I'm passionate about backend development and on a continu
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express&logoColor=white) 
+![Sequelize](https://img.shields.io/badge/-Sequelize-%23408080?style=for-the-badge&logo=sequelize&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) 
 ![Nest.js](https://img.shields.io/badge/-Nest.js-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![Electron](https://img.shields.io/badge/-Electron-%234478E6?style=for-the-badge&logo=electron&logoColor=white)  
