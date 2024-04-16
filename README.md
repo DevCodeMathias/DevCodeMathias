@@ -11,7 +11,6 @@ Welcome to my profile! I'm passionate about backend development and on a continu
 - Backend-focused Software Developer.
 - Specialized in creating efficient infrastructures and robust APIs.
 - Committed to continuous learning to stay ahead in the ever-evolving tech landscape.
-
    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,typescript,nodejs,nestjs,react,express,java,spring,py,docker,mongodb,postgres,mysql,sqlite,sequelize&perline=8" style="max-width: 100%;"/>
 
 ## Exploring the Backend Universe 🖥️
