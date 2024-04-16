@@ -6,7 +6,6 @@
 Welcome to my profile! I'm passionate about backend development and on a continuous journey to push the boundaries of technology. My expertise lies in crafting efficient infrastructures and robust APIs for optimized performance.
 
 ## 📚 Summary
-
 - Software Engineering student at FIAP.
 - Backend-focused Software Developer.
 - Specialized in creating efficient infrastructures and robust APIs.
@@ -14,11 +13,9 @@ Welcome to my profile! I'm passionate about backend development and on a continu
    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,typescript,nodejs,nestjs,react,express,java,spring,py,docker,mongodb,postgres,mysql,sqlite,sequelize&perline=8" style="max-width: 100%;"/>
 
 ## Exploring the Backend Universe 🖥️
-
 My specialization is in backend development, with a strong emphasis on efficient architecture and solutions that enhance performance. I'm dedicated to optimizing systems and deepening my expertise in this domain.
 
 ## ⭐ Objective
-
 My journey is defined by the constant pursuit of excellence. I strive to create solutions that not only address challenges but also inspire innovation. I invite you to connect with me to collaborate and jointly shape the future of technology, driving changes that resonate globally.
 
 ## 🌍💻 Let's Connect
