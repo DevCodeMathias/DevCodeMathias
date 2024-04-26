@@ -10,7 +10,10 @@ Welcome to my profile! I'm passionate about backend development and on a continu
 - Backend-focused Software Developer.
 - Specialized in creating efficient infrastructures and robust APIs.
 - Committed to continuous learning to stay ahead in the ever-evolving tech landscape.
-   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,typescript,nodejs,nestjs,react,express,java,spring,py,docker,mongodb,postgres,mysql,sqlite,sequelize&perline=8" style="max-width: 100%;"/>
+
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express&logoColor=white)![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![Nest.js](https://img.shields.io/badge/-Nest.js-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white) [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23purple?style=for-the-badge&logo=swagger) 
+
 
 ## Exploring the Backend Universe 🖥️
 My specialization is in backend development, with a strong emphasis on efficient architecture and solutions that enhance performance. I'm dedicated to optimizing systems and deepening my expertise in this domain.
