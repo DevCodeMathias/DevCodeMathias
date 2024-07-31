@@ -3,7 +3,7 @@
 
  Software Developer | Software Engineering Student | São Paulo, Brazil
 
-Welcome to my profile! I'm passionate about backend development and on a continuous journey to push the boundaries of technology. My expertise lies in crafting efficient infrastructures and robust APIs for optimized performance.
+Welcome to my profile! I'm passionate about backend development, my expertise lies in crafting efficient infrastructures and robust APIs for optimized performance.
 
 ## 📚 Summary
 - Software Engineering student at FIAP.
